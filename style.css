@@ -1,0 +1,21 @@
+<style>
+        *{
+            margin; 0px;
+            padding; 0px;
+        }
+        #box1{
+            background-color: hotpink;
+            color: white;
+            text-align: center;
+            border: solid 5px blue;
+        border-radius: 20px;
+        padding: 20px;
+        margin: 20px;
+        
+        }
+
+        #box2{
+            background-color: aqua;
+        }
+
+    </style>
